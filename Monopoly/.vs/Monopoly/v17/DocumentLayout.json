@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Final Project (WaiYanHL)\\Monopoly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\cardspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\colorproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colorproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|d:\\final project (waiyanhl)\\monopoly\\assets\\scripts\\action_generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\action_generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\action_rolldice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\action_rolldice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\action_twochoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\action_twochoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\controller_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\controller_startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller_startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\railroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\railroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\propertymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\propertymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\playerfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\controller_trading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller_trading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\controller_popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller_popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\controller_playertrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller_playertrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\controller_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\controller_endmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller_endmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\controller_detailspopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller_detailspopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|D:\\Final Project (WaiYanHL)\\Monopoly\\assets\\scripts\\controller_card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller_card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Utility.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utility.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Utility.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utility.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAA0wCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:32:42.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tax.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Tax.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tax.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Tax.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:32:32.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Space.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Space.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Space.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Space.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Space.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:31:54.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Railroad.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Railroad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Railroad.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Railroad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Railroad.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:31:35.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PropertyManager.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\PropertyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PropertyManager.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\PropertyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PropertyManager.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAuwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:31:22.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerFile.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\PlayerFile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerFile.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\PlayerFile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerFile.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAUwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:30:58.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Controller_Trading.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_Trading.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller_Trading.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_Trading.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller_Trading.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAuwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:30:32.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Controller_StartMenu.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_StartMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller_StartMenu.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_StartMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller_StartMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:30:18.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Controller_Popup.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_Popup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller_Popup.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_Popup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller_Popup.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:30:08.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Controller_PlayerTrack.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_PlayerTrack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller_PlayerTrack.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_PlayerTrack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller_PlayerTrack.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAuwMMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:29:41.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Controller_Game.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_Game.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller_Game.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_Game.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller_Game.cs",
+              "ViewState": "AQIAAGgEAAAAAAAAAAAAAGMEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:27:37.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Controller_EndMenu.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_EndMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller_EndMenu.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_EndMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller_EndMenu.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:27:28.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Controller_DetailsPopup.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_DetailsPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller_DetailsPopup.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_DetailsPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller_DetailsPopup.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA+wBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:26:58.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Controller_Card.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_Card.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller_Card.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_Card.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller_Card.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAuwHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:26:36.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Controller_Camera.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller_Camera.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Controller_Camera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller_Camera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:26:18.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColorProperty.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\ColorProperty.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ColorProperty.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\ColorProperty.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ColorProperty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:25:50.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardSpace.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\CardSpace.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardSpace.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\CardSpace.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardSpace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:25:15.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Board.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Board.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Board.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Board.cs",
+              "ViewState": "AQIAAAwEAAAAAAAAAAAAACAEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:21:46.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Action_TwoChoice.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Action_TwoChoice.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Action_TwoChoice.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Action_TwoChoice.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Action_TwoChoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:21:37.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Action_RollDice.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Action_RollDice.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Action_RollDice.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Action_RollDice.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Action_RollDice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:21:09.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Action_Generic.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Action_Generic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Action_Generic.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Action_Generic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Action_Generic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABOwAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:20:49.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Card.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Card.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T03:23:12.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T03:21:09.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Property.cs",
+              "DocumentMoniker": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Property.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Property.cs",
+              "ToolTip": "D:\\Final Project (WaiYanHL)\\Monopoly\\Assets\\Scripts\\Property.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Property.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAA0wB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T03:19:53.194Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

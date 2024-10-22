@@ -1,0 +1,40 @@
+Go,LandedOn_Go,Go
+Myitkyina,LandedOn_UnownedProperty,ColorProperty,60,50,2,10,30,90,160,250,Brown
+Community Chest,LandedOn_ChanceOrCommunityChest,Card
+Putao,LandedOn_UnownedProperty,ColorProperty,60,50,4,20,60,180,320,450,Brown
+Income Tax,LandedOn_Tax,Tax,200
+Yangon Railroad,LandedOn_UnownedProperty,Railroad
+Sittwe,LandedOn_UnownedProperty,ColorProperty,100,50,6,30,90,270,400,550,Light Blue
+KyaukPhyu,LandedOn_UnownedProperty,ColorProperty,100,50,6,30,90,270,400,550,Light Blue
+Chance,LandedOn_ChanceOrCommunityChest,Card
+Ngapali,LandedOn_UnownedProperty,ColorProperty,120,50,8,40,100,300,450,600,Light Blue
+Just Visiting,LandedOn_VisitingJail,Just Visiting
+Meiktila,LandedOn_UnownedProperty,ColorProperty,140,100,10,50,150,450,625,750,Purple
+Electric Company,LandedOn_UnownedProperty,Utility,150
+Thazi,LandedOn_UnownedProperty,ColorProperty,140,100,10,50,150,450,625,750,Purple
+Taungoo,LandedOn_UnownedProperty,ColorProperty,160,100,12,60,180,500,700,900,Purple
+Mandalay Railroad,LandedOn_UnownedProperty,Railroad
+Myawaddy,LandedOn_UnownedProperty,ColorProperty,180,100,14,70,200,550,750,950,Orange
+Mawlamyine,LandedOn_UnownedProperty,ColorProperty,180,100,14,70,200,550,750,950,Orange
+Community Chest,LandedOn_ChanceOrCommunityChest,Card
+Setse,LandedOn_UnownedProperty,ColorProperty,200,100,16,80,220,600,800,1000,Orange
+Free Parking,LandedOn_FreeParking,Free Parking
+Taunggyi,LandedOn_UnownedProperty,ColorProperty,220,150,18,90,250,700,875,1050,Red
+Chance,LandedOn_ChanceOrCommunityChest,Card
+Inlay,LandedOn_UnownedProperty,ColorProperty,220,150,18,90,250,700,875,1050,Red
+Pintaya,LandedOn_UnownedProperty,ColorProperty,240,150,20,100,300,750,925,1100,Red
+Sagaing Railroad,LandedOn_UnownedProperty,Railroad
+Magway,LandedOn_UnownedProperty,ColorProperty,260,150,22,110,330,800,975,1150,Yellow
+YayNanChaung,LandedOn_UnownedProperty,ColorProperty,260,150,22,110,330,800,975,1150,Yellow
+Water Works,LandedOn_UnownedProperty,Utility,150
+Pakkoku,LandedOn_UnownedProperty,ColorProperty,280,150,24,120,360,850,1025,1200,Yellow
+Go to Jail,LandedOn_GoToJail,Jail
+Bagan,LandedOn_UnownedProperty,ColorProperty,300,200,26,130,390,900,1100,1275,Green
+Mandalay,LandedOn_UnownedProperty,ColorProperty,300,200,26,130,390,900,1100,1275,Green
+Community Chest,LandedOn_ChanceOrCommunityChest,Card
+PyinOoLwin,LandedOn_UnownedProperty,ColorProperty,320,200,28,150,450,1000,1200,1400,Green
+NayPyiTaw Railroad,LandedOn_UnownedProperty,Railroad
+Chance,LandedOn_ChanceOrCommunityChest,Card
+ChaungThar,LandedOn_UnownedProperty,ColorProperty,350,200,35,175,500,1100,1300,1500,Dark Blue
+Luxury Tax,LandedOn_Tax,Tax,100
+Yangon,LandedOn_UnownedProperty,ColorProperty,400,200,50,200,600,1400,1700,2000,Dark Blue

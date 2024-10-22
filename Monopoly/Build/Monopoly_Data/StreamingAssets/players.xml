@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Players>
+  <Player>
+    <Name>A</Name>
+    <Icon>Hat</Icon>
+  </Player>
+  <Player>
+    <Name>B</Name>
+    <Icon>Car</Icon>
+  </Player>
+</Players>

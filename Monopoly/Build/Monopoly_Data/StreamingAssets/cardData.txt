@@ -1,0 +1,32 @@
+Community Chest,collectMoney,Bank error in your favor – Collect $200,200
+Community Chest,collectMoney,You inherit $100,100
+Community Chest,collectMoney,Holiday Fund Matures. Receive $100,100
+Community Chest,collectMoney,Income Tax Refund. Collect $20,20
+Community Chest,collectMoney,You have won second prize in a beauty contest. Collect $10,10
+Community Chest,collectMoney,From sale of stock you get $50,50
+Community Chest,collectMoney,Building loan matures – collect $150,150
+Community Chest,collectMoney,Life insurance matures. Collect $100,100
+Community Chest,payMoney,Doctor's fees. Pay $50,50
+Community Chest,payMoney,Pay school fees of $50,50
+Community Chest,payMoney,Receive $25 consultancy fee,25
+Community Chest,move,Advance to nearest utility. If unowned you may buy it from the bank,Utility
+Community Chest,move,Advance to Go (Collect $200),Go
+Community Chest,move,Advance to nearest railroad. If railroad is unowned you may buy it from the bank,Railroad
+Community Chest,makeRepairs,You are assessed for street repairs – $40 per house – $115 per hotel,40,115
+Community Chest,getJailCard,Get out of Jail Free – This card may be kept until needed
+Chance,collectMoney,Bank pays you dividend of $50,50
+Chance,collectMoney,Bank error in your favor – Collect $50,50
+Chance,payMoney,Receive $25 consultancy fee,25
+Chance,payMoney,Pay poor tax of $15,15
+Chance,payMoney,Pay hospital fees of $100,100
+Chance,payMoney,Speeding Fine. Pay $15,15
+Chance,move,Advance to Pintaya – If you pass Go collect $200,Pintaya
+Chance,move,Advance to nearest utility. If unowned you may buy it from the bank,Utility
+Chance,move,Advance to Go (Collect $200),Go
+Chance,move,Advance to nearest railroad. If railroad is unowned you may buy it from the bank,Railroad
+Chance,move,Go directly to jail – Do not pass Go and do not collect $200,Just Visiting
+Chance,move,Take a trip to Yangon Railroad – If you pass Go collect $200,Yangon Railroad
+Chance,move,Take a walk at the Yangon – Advance to Yangon,Yangon
+Chance,move,Advance to Meiktila. If you pass Go collect $200,Meiktila
+Chance,makeRepairs,Make general repairs on all your property – For each house pay $25 – for each hotel $100,25,100
+Chance,getJailCard,Get out of Jail Free – This card may be kept until needed
